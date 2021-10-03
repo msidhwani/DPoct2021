@@ -1,0 +1,6 @@
+Software setup on participants' PC for this training.
+    Java JDK 8 or higher
+    A simple editor like Visual Studio Code or notepad++
+    Java IDE like Eclipse or IntelliJ
+    Office
+    Ability to download software from Github.
