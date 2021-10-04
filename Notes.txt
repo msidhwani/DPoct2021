@@ -56,6 +56,24 @@ DRY - 	Q021: BookRentals; Q11: BookRental;
 	Q70 – Array Scan.
 Small Q56, Q59
 SRP Q50, Q51, Q55
+Pure function: Q60, Q61
+CSV pipe Q62
+
+Self documenting code: 
+Q20 – inch; Q06 – NO_GROUPING; 
+Q07 – addHoliday; Q21 – full name in English;
+Q22 – complexPassword; Q23 – TokenStream; 
+Q25 - orderItems
+
+
+
+
+
+
+
+
+
+
 
 
 
