@@ -1,1 +1,64 @@
 Github https://bit.ly/3A3Stp2
+class Order {
+	private Boolean isPrepaid;
+	private Date dateReceived;
+	private List<OrderLine> lineItems;
+	//...
+}
+class Person {
+	List<Car> cars; ///....
+}
+class Car {
+	Person owner; //...
+}
+class Customer {
+	String name, address; 
+	public String getCreditRating() { ... }
+}
+class PersonalCustomer extends Customer {
+	String CreditCardNumber;
+	public override String getCreditRating() 
+		{ return "poor"; }
+}
+class CorporteCustomer extends Customer {
+	String contactName, creditRating;
+	double creditLimit;
+	Employee salesRep;
+	public String billForMonth(int month)
+		 {...}
+	public void remind() { ... }
+}
+class Employee { ... }
+class Order {
+	Date dateReceived;
+	Boolean isPrepaid;
+	String number;
+	Money price;
+	Customer c;
+	List<OrderLine> lineItems;
+	void dispatch() { ... }
+	void close() { ... }
+}
+class OrderLine {
+	int quantity;
+	Money price;
+	Product p; //...
+}
+
+Q022 - Question
+S022 - Solution
+Q01 - S01
+ Q57, Q58
+DRY - 	Q021: BookRentals; Q11: BookRental; 
+	Q33 – SurveyData; Q37 – FOC, TT
+	Q10 – Jbutton – Only for Java.
+	Q34 – replace; Q35 – BookRental
+	Q70 – Array Scan, Java only.
+
+
+
+
+
+
+
+
