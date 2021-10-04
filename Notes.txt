@@ -81,6 +81,16 @@ Q36 – USD, RMB;
 Bounded Buffer Problem:
 Assume a set of 3 threads produce ten million integers. A set of 2 threads consume these integers. Output should be how many evens and how many odds.
 
+Beverage b = new Sugar(new Milk(new coffee()));
+
+new Header1(new Footer1(new Footer3(new Header2(new Report1()))))
+
+
+
+
+
+
+
 
 
 
