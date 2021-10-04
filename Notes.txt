@@ -51,9 +51,17 @@ Q01 - S01
  Q57, Q58
 DRY - 	Q021: BookRentals; Q11: BookRental; 
 	Q33 – SurveyData; Q37 – FOC, TT
-	Q10 – Jbutton – Only for Java.
+	Q10 – Jbutton.
 	Q34 – replace; Q35 – BookRental
-	Q70 – Array Scan, Java only.
+	Q70 – Array Scan.
+Small Q56, Q59
+SRP Q50, Q51, Q55
+
+
+
+
+
+
 
 
 
