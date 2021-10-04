@@ -65,6 +65,28 @@ Q07 – addHoliday; Q21 – full name in English;
 Q22 – complexPassword; Q23 – TokenStream; 
 Q25 - orderItems
 
+Polymorphism:
+if (tc == 1)
+	...
+else if (tc == 2)
+	...
+else if (tc == 3
+	...
+else
+	throw new Exception();
+Q30 – Shape; Q40Smell: Courses weekly, range, list; 
+Q43smell: home address / work address
+Q36 – USD, RMB; 
+
+Bounded Buffer Problem:
+Assume a set of 3 threads produce ten million integers. A set of 2 threads consume these integers. Output should be how many evens and how many odds.
+
+
+
+
+
+
+
 
 
 
