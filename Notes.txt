@@ -98,6 +98,8 @@ Null rules
 
 QCardChips
 
+Bad API: Q53, Q73
+
 
 
 
