@@ -84,6 +84,7 @@ Assume a set of 3 threads produce ten million integers. A set of 2 threads consu
 Beverage b = new Sugar(new Milk(new coffee()));
 
 new Header1(new Footer1(new Footer3(new Header2(new Report1()))))
+================================================================
 
 
 
