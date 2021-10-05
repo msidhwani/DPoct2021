@@ -99,9 +99,17 @@ Null rules
 QCardChips
 
 Bad API: Q53, Q73
+	
+	obj.f1().f2().f3().f4();
+	obj.f4();
 
 
-
+OCP:
+	Q45 – LoanHandler 
+	Q44 – FILE1, DATABASE1
+	Q39 - Scheduler
+	Q83 – Cooker
+	Q84 – ChooseFontDialog
 
 
 
