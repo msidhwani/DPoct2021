@@ -85,9 +85,18 @@ Beverage b = new Sugar(new Milk(new coffee()));
 
 new Header1(new Footer1(new Footer3(new Header2(new Report1()))))
 ================================================================
+Monte Carlo simulation:
+	simulate 1 million 2 dice throws
+	how many times did I get 2      1000 / 1M
+4 threads - simulate 250,000
 
+Null rules
+	- Instead of null, return empty list, empty array, 0.
+	- Use Null pattern
+	- Optional
+	- Document
 
-
+QCardChips
 
 
 
