@@ -128,7 +128,8 @@ DesignPatternsParticipants:
 	java -jar build\libs\DesignPatternsParticipants.jar 4
 			will run the circuit breaker Proxy DP
 
-
+	java -jar build\libs\DesignPatternsParticipants.jar 1
+			will run the Spring Aspects
 
 
 
