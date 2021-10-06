@@ -110,6 +110,14 @@ OCP:
 	Q39 - Scheduler
 	Q83 – Cooker
 	Q84 – ChooseFontDialog
+==============================================================
+Inheritance
+Q72Inheri: Employee, LinkList
+Q31 - UserAccount
+Q71inheri – CourseCatalog    
+Q52 – NormalPayment	Q54 – Account
+Q74 – BitmapButton      Q75 – PropertyFileWriter
+Avoid deep Inheritance Hierarchy:  Q76
 
 
 
