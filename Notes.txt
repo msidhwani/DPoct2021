@@ -119,6 +119,15 @@ Q52 – NormalPayment	Q54 – Account
 Q74 – BitmapButton      Q75 – PropertyFileWriter
 Avoid deep Inheritance Hierarchy:  Q76
 
+Higher order functions Q77
+
+
+DesignPatternsParticipants:
+	gradlew clean build
+			will create the jar file
+	java -jar build\libs\DesignPatternsParticipants.jar 4
+			will run the circuit breaker Proxy DP
+
 
 
 
