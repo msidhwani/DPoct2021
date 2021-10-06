@@ -136,6 +136,12 @@ ADP
 	Q81reference -  FileCopier   
 	Q82reference - faxNo
 
+Immutable - Thread safety, less error prone.
+Code needed for sharing immutable objects.
+
+
+
+
 
 
 
