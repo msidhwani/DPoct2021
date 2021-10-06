@@ -131,6 +131,12 @@ DesignPatternsParticipants:
 	java -jar build\libs\DesignPatternsParticipants.jar 1
 			will run the Spring Aspects
 
+ADP
+	Q80reference – zipengine   
+	Q81reference -  FileCopier   
+	Q82reference - faxNo
+
+
 
 
 
