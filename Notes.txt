@@ -138,35 +138,6 @@ ADP
 
 Immutable - Thread safety, less error prone.
 Code needed for sharing immutable objects.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+====================================================
 
 
