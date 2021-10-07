@@ -139,5 +139,10 @@ ADP
 Immutable - Thread safety, less error prone.
 Code needed for sharing immutable objects.
 ====================================================
-
+1. Exercise: Game of Life
+	Email it to me.
+	Email by 4PM.
+2. Fill feedback form
+   http://erp.optimistikinfo.com/participantsfeedback/feedback/297
+3. At 4PM, we will discuss my solution to this same problem.
 
